@@ -2,10 +2,12 @@
 layout: page
 permalink: /teaching/
 title: teaching
-description: Materials for courses you taught. Replace this text with your description.
+description: Teaching assistant 
 nav: true
 ---
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
-
-Organize your courses by years, topics, or universities, however you like!
+- EECE7200 10810 LINEAR SYSTEMS ANALYSIS SEC V30/V35 MERGED [BOS-2-TR] – PROF. SHAFAI
+- EECE5580 34522 CLASSICAL CONTROL SYSTEMS SEC 01 SPRING 2018 [BOS-2-TR] – PROF. SZNAIR
+- EECE5580 34522 CLASSICAL CONTROL SYSTEMS SEC 01 SPRING 2019 [BOS-2-TR]—PROF. BOGDAN
+- EECE5580 34522 CLASSICAL CONTROL SYSTEMS SEC 01 SPRING 2020 [BOS-2-TR]— PROF. ASHEGHAN
+- EECE5581 34672 LAB FOR EECE 5580 SEC 01 SPRING 2020-2019-2018 
