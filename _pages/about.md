@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-description: <a href="tokhmpash.a@Northeastern.edu">Want to get in touch?</a>
+description: PhD candidate looking for a data science opportunity </a>
 
 profile:
   align: right
